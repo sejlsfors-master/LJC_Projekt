@@ -1,9 +1,10 @@
 # LJC_Projekt
 
-My mistake! Graduating project's repository is actually stored under this GitHub link: 
+My mistake! Graduation Project's repository is actually stored under this GitHub link:
 https://github.com/letsjoincloud/admin-cfijalkowski/blob/master/LoginData.md
 
-Nevertheless, the login data below is still up-to-date:
+**Nevertheless, the login data below is still up-to-date**
+
 To see the Salesforce Experience Cloud (former Community) application, go to 
 https://sejlsfors3-dev-ed.develop.my.site.com/s/login/
 
