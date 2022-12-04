@@ -1,7 +1,8 @@
-# LJC_Projekt
+# My mistake! 
 
-My mistake! Graduation Project's repository is actually stored under this GitHub link:
-https://github.com/letsjoincloud/admin-cfijalkowski/blob/master/LoginData.md
+Graduation Project's repository is actually stored under this GitHub link:
+
+https://github.com/letsjoincloud/admin-cfijalkowski
 
 **Nevertheless, the login data below is still up-to-date**
 
